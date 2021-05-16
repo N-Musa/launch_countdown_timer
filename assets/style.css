@@ -33,8 +33,3 @@ h2 {
 .day, .hour, .mins, .secs{
     font-size: 3rem;
 }
-footer{
-    display: flex;
-    justify-content: center;
-    padding-bottom: 10px;
-}
