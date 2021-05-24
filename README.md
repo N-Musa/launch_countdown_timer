@@ -9,7 +9,7 @@
 
 - semantic HTML5 markup
 - flexbox
-- a bit of Javascript
+- a tiny weeny bit of Javascript
 ....
 
 
